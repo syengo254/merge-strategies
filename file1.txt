@@ -1,3 +1,5 @@
 chick
+monkey
+elephant
 dog
 lion
